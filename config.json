@@ -1,7 +1,7 @@
 {
   "password": "MEGAPACK24",
   "expiration_date": "2024-12-15",
-  "block_access": true,
+  "block_access": false,
   "redirect_url": "https://pagina.com/mensaje-bloqueo",
   "download_url": "https://www.mediafire.com/file/ci6dxvo05bvgr64/DIAMANT+PACK+SAMDEV50.zip/file"
 }
